@@ -1,15 +1,9 @@
 # Deploy on the Cloud
-This repository contains step-by-step guide for deploying any application to IaaS or PaaS
 
-<img src= "https://www.esds.co.in/assets/images/public-cloud/cloud-fea.gif" width=100%>
+This repository contains a step-by-step guide for deploying any application to IaaS or PaaS.
 
-<div style="display:flex; align-items: center; justify-content:center; ">
-<a href="nodejs/guide.md"><img src= "nodejs/images/node.png"></a>
+![Cloud Animation](https://www.esds.co.in/assets/images/public-cloud/cloud-fea.gif)
 
-<a href="django/guide.md"><img src= "https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" style="padding:20px"></a>
-</div>
-
-
-
-**Want to Deploy Django App?** [Click Here](./django/guide.md)
-**No, I am a NodeJS Fan Boy.** [Click Here](./nodejs/guide.md)
+## Choose your environment:
+<a href="django/guide.md"> <img src="https://github.com/Keraskp/cloud-deploy-101/assets/78957239/a4c26933-4548-42ab-95cc-8dfae34c1e9c"> </a>
+<a href="nodejs/guide.md"> <img src="https://github.com/Keraskp/cloud-deploy-101/assets/78957239/d5ff2b91-a824-4771-a030-ac5a78599003"> </a>
